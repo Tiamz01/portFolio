@@ -1,0 +1,19 @@
+{
+  "name": "m-portfolio",
+  "version": "1.0.0",
+  "description": "sass bootstrap my-portfolio",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass":"sass -w scss:assets/css"
+  },
+  "keywords": [
+    "sass",
+    "bootstrap"
+  ],
+  "author": "Ismail Tiamiyu alias Tiamz",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.4.7",
+    "bootstrap": "^5.2.0-beta1"
+  }
+}

@@ -1,0 +1,25 @@
+//front - end
+@keyframes front-end{
+    0%{
+
+    }
+    50%{
+        
+    }
+    100%{
+
+    }
+}
+
+//PULSE BORDER
+@keyframes pulse-border{
+    0%{
+        transform: scale(1);
+        opacity: 1;
+    }
+
+    100%{
+        transform: scale(1.5);
+        opacity: 0;
+    }
+}
